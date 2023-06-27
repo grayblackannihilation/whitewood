@@ -1,0 +1,13 @@
+{
+    "name": "夢境網遊",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "stretchmode": false,
+        "width": 720,
+        "height": 912,
+        "icon": "icon/icon.png"
+    }
+}
